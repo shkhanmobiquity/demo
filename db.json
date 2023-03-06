@@ -1,5 +1,5 @@
 {
-   "api/corebanking/v1/e-consent": {
+   "api": {
       "id": 1,
       "value": "document"
     },
