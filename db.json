@@ -1,12 +1,10 @@
 {
-   "api": {
-      "id": 1,
-      "value": "document"
-    },
-   "users": [
-      {
-         "id": 10,
-         "name": "Shahrukh khan"
-      }
-   ]
+	"api": {
+		"id": 1,
+		"value": "document"
+	},
+	"users": [{
+		"id": 10,
+		"name": "Shahrukh khan"
+	}]
 }
