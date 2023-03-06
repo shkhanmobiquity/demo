@@ -1,12 +1,6 @@
 {
-  "api": {
-    "corebanking": {
-      "v1": {
-        "e-consent": {
-          "id": 1,
-          "value": "document"
-        }
-      }
+   "/api/corebanking/v1/e-consent": {
+      "id": 1,
+      "value": "document"
     }
-  }
 }
